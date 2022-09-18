@@ -13,12 +13,10 @@
 .App {
   width: 100vw;
   height: 100vh;
-  /* background: url(../assets/images/mountains-bg.jpg); */
   background-size: cover;
   background-position: fixed;
   background-repeat: no-repeat;
   position: relative;
-  /* overflow-x: hidden; */
 }
 .color-filter{
   width: 100vw;
@@ -46,7 +44,6 @@
   display: flex;
   justify-content: space-between;
   height: 5rem;
-  /* border-bottom: 1px solid rgba(113, 255, 208, 1); */
 }
 .navBar__link {
   color: var(--aquamarine);
@@ -65,9 +62,6 @@
 }
 .navBar__RickAndMorty {
   background: url(../assets/images/trippy.jpg);
-  /* background-size: cover; */
-  /* border-bottom: 1px solid var(--aquamarine); */
-  /* box-shadow: 0 0 150px 5px rgba(12, 255, 174, 0.3); */
   position: fixed;
   z-index: 2;
 }
@@ -108,7 +102,6 @@ header h2 {
   height: auto;
   justify-content: center;
   gap: 5rem;
-  /* border: 2px solid black; */
 }
 
 .main-btn {
