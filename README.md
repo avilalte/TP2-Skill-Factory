@@ -31,7 +31,7 @@ This is a brief description of **C1**:
 #### To run this project locally go through the following steps:
 
 ```sh
-git clone https://github.com/CamiStefano/TP2-Skill-Factory
+git clone https://github.com/avilalte/TP2-Skill-Factory
 cd TP2-Skill-Factory
 npm install
 npm start
